@@ -48,7 +48,7 @@ topics.
   steps for RNA-seq data.
 - [How many biological replicates are needed in an RNA-seq experiment and which
   differential expression tool should you
-  use?](https://doi.org/10.1261/rna.053959.115). The more replicates, the
+  use?](https://doi.org/10.1261/rna.053959.115) The more replicates, the
   better!
 - A [very simple method](https://doi.org/10.2202/1544-6115.1071) to classify
   gene expression profiles, a cool application on [transcription factor pairs
