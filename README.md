@@ -7,6 +7,9 @@ topics.
 
 ### Sequencing technologies
 
+- [Coming of age: ten years of next-generation sequencing
+  technologies](https://doi.org/10.1038/nrg.2016.49), review on various short
+  and long-read sequencing technologies.
 - [SequencENG](http://education.knoweng.org/sequenceng/index.html), a nice
   resource on NGS techniques, and the [preprint](https://doi.org/10.1101/319079)
   describing it.
