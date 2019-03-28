@@ -13,7 +13,7 @@ topics.
 - [Next-generation DNA sequencing](https://doi.org/10.1038/nbt1486), introducing
   the basic technology used in different protocols.
 - [RNA-Seq: a revolutionary tool for
-  transcriptomics](htts://doi.org/10.1038/nrg2484), introducing RNA-seq.
+  transcriptomics](https://doi.org/10.1038/nrg2484), introducing RNA-seq.
 - [SequencENG](http://education.knoweng.org/sequenceng/index.html), a nice
   resource on NGS techniques, and the [preprint](https://doi.org/10.1101/319079)
   describing it.
