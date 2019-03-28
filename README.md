@@ -10,6 +10,10 @@ topics.
 - [Coming of age: ten years of next-generation sequencing
   technologies](https://doi.org/10.1038/nrg.2016.49), review on various short
   and long-read sequencing technologies.
+- [Next-generation DNA sequencing](https://doi.org/10.1038/nbt1486), introducing
+  the basic technology used in different protocols.
+- [RNA-Seq: a revolutionary tool for
+  transcriptomics](htts://doi.org/10.1038/nrg2484), introducing RNA-seq.
 - [SequencENG](http://education.knoweng.org/sequenceng/index.html), a nice
   resource on NGS techniques, and the [preprint](https://doi.org/10.1101/319079)
   describing it.
@@ -68,7 +72,7 @@ topics.
   data](https://doi.org/10.4137/CIN.S14066). Looking for actual deregulation
   instead of changes in mean values.
 
-### Cancer, transcription, splicing and chromatin structure
+### Cancer, transcription, splicing, chromatin and variance
 
 - [The Hallmarks of Cancer](https://doi.org/10.1016/S0092-8674%2800%2981683-9)
   and [Hallmarks of Cancer: The Next
@@ -89,6 +93,10 @@ topics.
 - [Natural Variation in Gene Expression Modulates the Severity of Mutant
   Phenotypes](https://doi.org/10.1016/j.cell.2015.06.037). Natural variation in
   gene expression influences the manifestation of mutant phenotypes.
+- [Interplay between gene expression noise and regulatory network
+  architecture](https://doi.org/10.1016/j.tig.2012.01.006). Intro on how gene
+  regulatory networks are influenced by expression variance, and why it might be
+  interesting.
 - [Domain organization of human chromosomes revealed by mapping of nuclear
   lamina interactions](https://doi.org/10.1038/nature06947). A comprehensive map
   of LADs and large-scale structure in the human genome.
