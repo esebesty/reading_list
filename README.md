@@ -108,8 +108,10 @@ topics.
 
 ### Complexity, evolution and other stuff
 
-- [What is a complex system?](http://doi.org/10.1007/s13194-012-0056-8) And how
+- [What is a complex system?](https://doi.org/10.1007/s13194-012-0056-8) And how
   to characterize it, not just in biology?
+- [Is the cell really a machine?](https://doi.org/10.1016/j.jtbi.2019.06.002)
+  Short answer: no (but read the paper anyway).
 - [Sequences and consequences](https://doi.org/10.1098/rstb.2009.0221). Some
   justified criticism of the current 'low input, high throughput, no output'
   biology.
@@ -120,6 +122,5 @@ topics.
   Neuroscientist Understand a
   Microprocessor?](https://doi.org/10.1371/journal.pcbi.1005268)
 - [An Evolutionary Classification of Genomic
-  Function](http://doi.org/10.1093/gbe/evv021). Functional DNA, junk DNA,
+  Function](https://doi.org/10.1093/gbe/evv021). Functional DNA, junk DNA,
   garbage DNA, zombie DNA and all kinds of other DNA.
-
