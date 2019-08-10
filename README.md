@@ -14,6 +14,11 @@ topics.
   the basic technology used in different protocols.
 - [RNA-Seq: a revolutionary tool for
   transcriptomics](https://doi.org/10.1038/nrg2484), introducing RNA-seq.
+- [RNA sequencing: the teenage
+  years](https://doi.org/10.1038/s41576-019-0150-2), a very recent review of
+  RNA-seq technology and the various improvements on the experimental protocols,
+  analysis methods, besides describing novel sequencing technologies used beyond
+  the analysis of gene expression.
 - [SequencENG](http://education.knoweng.org/sequenceng/index.html), a nice
   resource on NGS techniques, and the [preprint](https://doi.org/10.1101/319079)
   describing it.
