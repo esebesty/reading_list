@@ -5,13 +5,13 @@ structure, transcription, splicing, and a bit of evolution, among other things.
 This is in no way a comprehensive collection, just starting points for different
 topics.
 
-### Sequencing technologies
+### Sequencing technologies (mainly RNA)
 
+- [Next-generation DNA sequencing](https://doi.org/10.1038/nbt1486), introducing
+  the basic technology used in different protocols.
 - [Coming of age: ten years of next-generation sequencing
   technologies](https://doi.org/10.1038/nrg.2016.49), review on various short
   and long-read sequencing technologies.
-- [Next-generation DNA sequencing](https://doi.org/10.1038/nbt1486), introducing
-  the basic technology used in different protocols.
 - [RNA-Seq: a revolutionary tool for
   transcriptomics](https://doi.org/10.1038/nrg2484), introducing RNA-seq.
 - [RNA sequencing: the teenage
@@ -19,23 +19,24 @@ topics.
   RNA-seq technology and the various improvements on the experimental protocols,
   analysis methods, besides describing novel sequencing technologies used beyond
   the analysis of gene expression.
-- [SequencENG](http://education.knoweng.org/sequenceng/index.html), a nice
-  resource on NGS techniques, and the [preprint](https://doi.org/10.1101/319079)
-  describing it.
 - [Comparative Analysis of Single-Cell RNA Sequencing
   Methods](https://doi.org/10.1016/j.molcel.2017.01.023) discussing cost,
   accuracy, sensitivity, precision, etc of 6 different methods.
-- Some of the cutting edge stuff: single-cell isoform RNA sequencing with
-  [ScISOr-Seq](https://doi.org/10.1101/364950) and the
-  [Mandalorion](https://doi.org/10.1038/ncomms16027) pipeline.
-- [Single-Cell Multi-omics](https://doi.org/10.1016/j.tig.2018.06.001),
-  complementing single-cell RNA-seq with other methods.
+- [Translating RNA sequencing into clinical diagnostics: opportunities and
+  challenges](https://doi.org/10.1038/nrg.2016.10): current and potential future
+  applications of RNA-seq.
+- [Diagnosis of fusion genes using targeted RNA
+  sequencing](https://doi.org/10.1038/s41467-019-09374-9): panel RNA-seq for
+  clinical diagnostics.
 
-### Tools and methods for analysis
+### Tools and methods for analysis (again, mainly RNA-seq)
 
 - [Aligning sequence reads, clone sequences and assembly contigs with
   BWA-MEM](https://arxiv.org/abs/1303.3997). A widely used tool for mapping
   sequence reads.
+- [Short Read Mapping: An Algorithmic
+  Tour](https://doi.org/10.1109/JPROC.2015.2455551): various methods for
+  short-read mapping.
 - [GATK for processing and analysing DNA sequencing
   data](https://doi.org/10.1101/gr.107524.110). Data preprocessing, SNP and
   INDEL discovery.
@@ -62,33 +63,49 @@ topics.
   differential expression tool should you
   use?](https://doi.org/10.1261/rna.053959.115) The more replicates, the
   better!
-- A [very simple method](https://doi.org/10.2202/1544-6115.1071) to classify
-  gene expression profiles, a cool application on [transcription factor pairs
-  and cell types](https://doi.org/10.1038/nmeth.2445) and our implementation to
-  [detect changes in the relative abundance of alternative transcripts and
-  define cancer-specific splicing
-  signatures](https://doi.org/10.1093/nar/gku1392).
 - [Bioconductor: open software development for computational biology and
   bioinformatics](https://doi.org/10.1186/gb-2004-5-10-r80).
-- [Mean-Variance QTL Mapping on a Background of Variance
-  Heterogeneity](https://doi.org/10.1101/276980). Looking for genetic loci, that
-  influence the variance of a phenotype.
-- [Differential variability analysis for pathway level expression
-  data](https://doi.org/10.4137/CIN.S14066). Looking for actual deregulation
-  instead of changes in mean values.
+- [RNA Sequencing Data: Hitchhiker’s Guide to Expression
+  Analysis](https://doi.org/10.1146/annurev-biodatasci-072018-021255): one of
+  the best current review on RNA-seq analysis.
+- [Analytical Validation of Clinical Whole-Genome and Transcriptome Sequencing
+  of Patient-Derived Tumors for Reporting Targetable Variants in
+  Cancer](https://doi.org/10.1016/j.jmoldx.2018.06.007): Guideline on the analysis of
+  WGS and transcriptome sequencing for clinical application, from sequencing to
+  variant interpretation.
+- [A beginners guide to SNP calling from high-throughput DNA-sequencing
+  data](https://doi.org/0.1007/s00439-012-1213-z): as the title says.
+- [A unified analytic framework to discover and genotype variation among
+  multiple samples simultaneously](https://doi.org/10.1038/ng.806): BWA, MAQ,
+  GATK and friends.
 
-### Cancer, transcription, splicing, chromatin and variance
+### Cancer genomes and transcriptomes
 
 - [The Hallmarks of Cancer](https://doi.org/10.1016/S0092-8674%2800%2981683-9)
   and [Hallmarks of Cancer: The Next
   Generation](https://doi.org/10.1016/j.cell.2011.02.013). Seminal papers on the
   general principles underlying cancer.
-- [TCGA Research Network
-  publications](https://cancergenome.nih.gov/publications) on 31 different tumor
-  types.
 - [RNA splicing factor mutations in
   myelodysplasia](https://doi.org/10.1182/blood-2017-02-692715) with lots of
   open questions.
+- [RNA splicing factors as oncoproteins and tumor
+  suppressors](https://doi.org/10.1038/nrc.2016.51): mutations in the splicing
+  machinery and other RNA binding proteins.
+- [The genetics of myelodysplastic syndrome: from clonal haematopoiesis to
+  secondary leukaemia](https://doi.org/10.1038/nrc.2016.112): the varius driver
+  mutations from CHIP to sAML, including splicng factors, chromatin modifiers
+  and other genes.
+- [RNA modifications regulating cell fate in
+  cancer](https://doi.org/10.1038/s41556-019-0319-0): role of the more than 170
+  RNA modifications in cancer.
+- [High burden and pervasive positive selection of somatic mutations in normal
+  human skin](https://doi.org/10.1126/science.aaa6806): widespread oncogenic
+  mutations in normal human skin cells.
+- [Hypermutation in human cancer genomes: footprints and
+  mechanisms](https://doi.org/10.1038/nrc3816): mutator phenotype in cancer.
+
+### Transcription, splicing and expression variance (in disease)
+
 - [Building Robust Transcriptomes with Master Splicing
   Factors](https://doi.org/10.1016/j.cell.2014.09.054). Splicing regulatory
   networks in various biological processes.
@@ -102,9 +119,23 @@ topics.
   architecture](https://doi.org/10.1016/j.tig.2012.01.006). Intro on how gene
   regulatory networks are influenced by expression variance, and why it might be
   interesting.
-- [Domain organization of human chromosomes revealed by mapping of nuclear
-  lamina interactions](https://doi.org/10.1038/nature06947). A comprehensive map
-  of LADs and large-scale structure in the human genome.
+- [Splicing heterogeneity: separating signal from
+  noise](https://doi.org/10.1186/s13059-018-1467-4): sources of splicing
+  variance.
+- [Challenges in measuring and understanding biological
+  noise](https://doi.org/10.1038/s41576-019-0130-6): current state of research
+  on the sources and effects of biological noise.
+- [Higher gene expression variability in the more aggressive subtype of chronic
+  lymphocytic leukemia](https://doi.org/10.1186/s13073-014-0125-z): correlation
+  between gene expression variance and cancer progression.
+- [Non-genetic heterogeneity — a mutation-independent driving force for the
+  somatic evolution of tumours](https://doi.org/10.1038/nrg2556): how
+  non-genetic expression variance might contribute to the development of cancer?
+- [Predicting mutation outcome from early stochastic variation in genetic
+  interaction partners](https://doi.org/:10.1038/nature10665).
+- [Rare cell variability and drug-induced reprogramming as a mode of cancer drug
+  resistance](https://doi.org/10.1038/nature22794): excellent example on how
+  expression variability influences drug resistance in a cancer cell line.
 
 ### Complexity, evolution and other stuff
 
@@ -127,3 +158,6 @@ topics.
 - [An upper limit on the functional fraction of the human
   genome](https://doi.org/10.1093/gbe/evx121): can the whole human genome be
   functional?
+- [Emerging and evolving concepts in gene
+  essentiality](https://doi.org/10.1038/nrg.2017.74): essential genes or
+  essential functions?
