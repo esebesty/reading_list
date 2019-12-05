@@ -77,7 +77,7 @@ topics.
   WGS and transcriptome sequencing for clinical application, from sequencing to
   variant interpretation.
 - [A beginners guide to SNP calling from high-throughput DNA-sequencing
-  data](https://doi.org/0.1007/s00439-012-1213-z): as the title says.
+  data](https://doi.org/10.1007/s00439-012-1213-z): as the title says.
 - [A unified analytic framework to discover and genotype variation among
   multiple samples simultaneously](https://doi.org/10.1038/ng.806): BWA, MAQ,
   GATK and friends.
