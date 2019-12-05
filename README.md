@@ -135,7 +135,7 @@ topics.
   somatic evolution of tumours](https://doi.org/10.1038/nrg2556): how
   non-genetic expression variance might contribute to the development of cancer?
 - [Predicting mutation outcome from early stochastic variation in genetic
-  interaction partners](https://doi.org/:10.1038/nature10665).
+  interaction partners](https://doi.org/10.1038/nature10665).
 - [Rare cell variability and drug-induced reprogramming as a mode of cancer drug
   resistance](https://doi.org/10.1038/nature22794): excellent example on how
   expression variability influences drug resistance in a cancer cell line.
