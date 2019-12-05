@@ -28,6 +28,9 @@ topics.
 - [Diagnosis of fusion genes using targeted RNA
   sequencing](https://doi.org/10.1038/s41467-019-09374-9): panel RNA-seq for
   clinical diagnostics.
+- [Highly parallel direct RNA sequencing on an array of
+  nanopores](https://doi.org/10.1038/nmeth.4577): Oxford Nanopore for direct RNA
+  sequencing.
 
 ### Tools and methods for analysis (again, mainly RNA-seq)
 
