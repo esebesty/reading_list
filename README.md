@@ -143,7 +143,7 @@ topics.
   resistance](https://doi.org/10.1038/nature22794): excellent example on how
   expression variability influences drug resistance in a cancer cell line.
 - [Determinants of expression
-  variability](https://doi.org/10.1093/nar/gkt1364):microarray, not RNA-seq but
+  variability](https://doi.org/10.1093/nar/gkt1364): microarray, not RNA-seq but
   useful.
 - [Global variability analysis of mRNA and protein concentrations across and
   within human tissues](https://doi.org/10.1093/nargab/lqz010): Gini-index based
