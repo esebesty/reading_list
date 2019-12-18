@@ -5,7 +5,7 @@ structure, transcription, splicing, and a bit of evolution, among other things.
 This is in no way a comprehensive collection, just starting points for different
 topics.
 
-### Sequencing technologies (mainly RNA)
+### Sequencing technologies (mainly RNA-seq)
 
 - [Next-generation DNA sequencing](https://doi.org/10.1038/nbt1486), introducing
   the basic technology used in different protocols.
@@ -106,6 +106,9 @@ topics.
   mutations in normal human skin cells.
 - [Hypermutation in human cancer genomes: footprints and
   mechanisms](https://doi.org/10.1038/nrc3816): mutator phenotype in cancer.
+- [Integrative analyses of the RNA modification machinery reveal tissue- and
+  cancer-specific signatures](https://doi.org/10.1101/830968): expression
+  patterns of RNA modifier enzymes in the TCGA dataset.
 
 ### Transcription, splicing and expression variance (in disease)
 
@@ -139,6 +142,12 @@ topics.
 - [Rare cell variability and drug-induced reprogramming as a mode of cancer drug
   resistance](https://doi.org/10.1038/nature22794): excellent example on how
   expression variability influences drug resistance in a cancer cell line.
+- [Determinants of expression
+  variability](https://doi.org/10.1093/nar/gkt1364):microarray, not RNA-seq but
+  useful.
+- [Global variability analysis of mRNA and protein concentrations across and
+  within human tissues](https://doi.org/10.1093/nargab/lqz010): Gini-index based
+  protein concentration variability.
 
 ### Complexity, evolution and other stuff
 
