@@ -96,7 +96,7 @@ topics.
   machinery and other RNA binding proteins.
 - [The genetics of myelodysplastic syndrome: from clonal haematopoiesis to
   secondary leukaemia](https://doi.org/10.1038/nrc.2016.112): the varius driver
-  mutations from CHIP to sAML, including splicng factors, chromatin modifiers
+  mutations from CHIP to sAML, including splicing factors, chromatin modifiers
   and other genes.
 - [RNA modifications regulating cell fate in
   cancer](https://doi.org/10.1038/s41556-019-0319-0): role of the more than 170
